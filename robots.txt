@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cuikohhoo.eriktasaka.com/sitemap.xml
